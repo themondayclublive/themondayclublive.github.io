@@ -5,8 +5,7 @@ export const Band = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Meet the Band</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Conor Yule, Sean Mercer and Liam DeCourcey
           </p>
         </div>
         <div id='row'>
