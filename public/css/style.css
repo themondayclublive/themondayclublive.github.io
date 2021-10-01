@@ -224,8 +224,8 @@ a:focus,
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
-  margin-top: 0;
-  margin-bottom: 10px;
+  margin-top: -200;
+  margin-bottom: 100px;
 }
 .intro h1 span {
   font-weight: 800;
@@ -439,21 +439,21 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
-/* Team Section */
-#team {
+/* Band Section */
+#band {
   padding: 100px 0;
 }
-#team h4 {
+#band h4 {
   margin: 5px 0;
 }
-#team .team-img {
+#band .team-img {
   width: 240px;
 }
-#team .thumbnail {
+#band .thumbnail {
   background: transparent;
   border: 0;
 }
-#team .thumbnail .caption {
+#band .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
 }
