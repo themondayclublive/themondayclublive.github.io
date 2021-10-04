@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/themondayclublive.github.io/static/css/main.ea16ac3b.chunk.css",
+    "main.js": "/themondayclublive.github.io/static/js/main.f8e6207f.chunk.js",
+    "main.js.map": "/themondayclublive.github.io/static/js/main.f8e6207f.chunk.js.map",
+    "runtime-main.js": "/themondayclublive.github.io/static/js/runtime-main.a7c21882.js",
+    "runtime-main.js.map": "/themondayclublive.github.io/static/js/runtime-main.a7c21882.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/themondayclublive.github.io/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/themondayclublive.github.io/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/themondayclublive.github.io/index.html",
+    "static/css/main.ea16ac3b.chunk.css.map": "/themondayclublive.github.io/static/css/main.ea16ac3b.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/themondayclublive.github.io/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7c21882.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.ea16ac3b.chunk.css",
+    "static/js/main.f8e6207f.chunk.js"
+  ]
+}
